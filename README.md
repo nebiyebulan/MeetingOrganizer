@@ -1,2 +1,2 @@
 # MeetingOrganizer
-Flask framework ve sqlite ile orm kullanarak bir web api geliştirdim.Client kısmında bir Javascript template'i kullandım.İki projede localde çalıştığı için farklı portlar kullandım.Get,Post methodları ile register,delete,update,get all isteklerini karşıladım.Get by id'yi update (edit) butonuna basıldığında listeleme için kullandım.Başlangıç ve bitiş saatinde otomatik tarih almadım ve elle girilmesi için Bir tarih fonksiyonu oluşturdum.Formatını kendim belirledim ve bunu kullandım. Api tarafında kaynağın sunulduğu alan adının dışındaki bir alan adından istenebilmesine izin verilmedi ve izin verilebilmesi için cross origin kullanıldı.
+I developed a web api using Flask framework and sqlite and orm. I used a Javascript template in the client part.
